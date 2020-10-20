@@ -2,6 +2,7 @@
 
 //VARIABLE DE TYPE STRING
 
+//C : Créer deux variables nom et prénom, et afficher je m'appelle PRENOM NOM
 //ON DECLARE LA VARIABLE
 $prenom = "Alain";
 $nom = "Merucci";
