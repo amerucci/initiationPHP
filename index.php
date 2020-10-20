@@ -24,4 +24,10 @@ echo 'salut je suis l\'appel $prenom $nom';
 //VARIABLE DE TYPE TABLEAU
 //C : Créer une variable de type tableau comprenant vos 5 films préférés.
 
+$films = array("Ne le dis à personne", "Inglorious Bastards", "V pour Vendetta", "Le 5ème élément", "Les Bronzés");
+print_r($films);
+
+
+//AFFICHER LE RESULTAT DE MON TABLEAU SANS BOUCLE
+echo "Mon tableau contient les films suivants :"
 ?>
